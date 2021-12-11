@@ -4,8 +4,6 @@ import java.util.*;
 
 public class GamblerSimulator {
 	int stakes = 100;
-	int wins = 0;
-	int loose = 0;
 	static int daily_bets = 1;
 
 	/*
